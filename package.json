@@ -56,7 +56,7 @@
     "keytar": "^4.0.3",
     "lodash.isequal": "^4.5.0",
     "lodash.memoize": "^4.1.2",
-    "moment": "^2.17.1",
+    "moment": "^2.20.1",
     "multi-list-selection": "^0.1.1",
     "ncp": "^2.0.0",
     "prop-types": "^15.5.8",
